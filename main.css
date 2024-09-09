@@ -1,0 +1,52 @@
+.logo-custom {
+    width: 300px;
+    height: auto;
+    padding: 24px 0;
+    background-color: transparent;
+    border: none;
+}
+
+h1, h2, h4 {
+    color: #1C6F98;
+}
+
+.detalhes2 img {
+    margin-left: 30px;
+    height: 300px;
+}
+
+.detalhes2 {
+    flex-direction: row-reverse;
+    margin-left: 100px;
+}
+
+.detalhes {
+    display: flex;
+    padding: 30px;
+}
+
+.detalhes img {
+    max-width: 500px;
+    height: 300;
+    margin-right: 20px; 
+}
+
+.texto {
+    max-width: 60%;
+}
+
+
+header {
+    padding: 240;
+    border-bottom: 1px solid blue;
+    border-bottom: 1px solid #1e7ce7;
+}
+
+.carousel-inner {
+    padding: 16px 0;
+    border-bottom: 1px solid #1e7ce7;
+}
+
+.containers{
+    margin-top: 30px;
+}
